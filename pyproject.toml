@@ -25,6 +25,12 @@ jupyterlab = "^4.1.5"
 pylance = "^0.10.9"
 ipykernel = "^6.29.4"
 ipywidgets = "^8.1.2"
+einops = "^0.7.0"
+unstructured = "^0.13.2"
+markdown = "^3.6"
+sentence-transformers = "^2.6.1"
+chromadb = "^0.4.24"
+langchain-experimental = "^0.0.57"
 
 
 [build-system]
